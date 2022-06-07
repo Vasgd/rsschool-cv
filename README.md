@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Vasgd.github.io/rsschool-cv/cv
+https://Vasgd-Popruga.github.io/rsschool-cv/cv
