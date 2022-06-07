@@ -1,16 +1,16 @@
 # rsschool-cv
-# ***Vasilina Popruga***#
+# ***Vasilina Popruga***
 
 ***
 
-# **Contacts** #: 
-## RSschool ##: vasgd Popruga
-## mail ##: <vasilina.popruga@gmail.com>
+# **Contacts** : 
+## RSschool : vasgd Popruga
+## mail : <vasilina.popruga@gmail.com>
 
 ***
 
-# **Education** #: education institution secondary school №17 of the city of Bobruisk of the Republic of Belarus
+# **Education** : education institution secondary school №17 of the city of Bobruisk of the Republic of Belarus
 
 ***
 
-# **English level** #: A2
+# **English level** : A2
