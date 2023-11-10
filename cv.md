@@ -6,3 +6,30 @@
 
 === ###Skeels
 *HTML *CSS *JS (basic) *Git
+###**Code example**
+===
+```
+function bmi(weight, height) {
+  let index = weight / (Math.pow(height, 2));
+  if (index <= 18.5){
+    return "Underweight";
+  } else if  (index <= 25.0) {
+    return "Normal";
+  } else if (index <= 30.0) {
+    return "Overweight";
+  } else {
+    return "Obese";
+  }
+}
+```
+===
+###**Experience**
+====
+###**Education**
+===
+*University: Belarusian State University, Faculty of Philology
+
+====
+###**English language**
+====
+I have A2 level, but now I am continuing to study to raise the level to B1-B2
